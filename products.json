@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "_id": 1,
+      "productName": "Intel 12th Gen Alder Lake Core i3 12100F Processor",
+      "category": "cpu/processor",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-12th-gen-alder-lake-core-11641704468.webp",
+      "price": 45,
+      "stock": true,
+      "rating": 5
+    },
+    {
+      "_id": 2,
+      "productName": "Gigabyte Z790 AORUS ELITE AX (Wi-Fi 6E) DDR5 Intel Gaming Motherboard",
+      "category": "motherboard",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/gigabyte-z790-aorus-elite-ax-wi-fi-6e-ddr5-11667884201.webp",
+      "price": 76,
+      "stock": true,
+      "rating": 5
+    },
+    {
+      "_id": 3,
+      "productName": "Netac Basic SO 4GB DDR3L 1600MHz Laptop RAM #NTBSD3N16SP-04",
+      "category": "ram",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/netac-basic-so-4gb-ddr3-1600mhz-laptop-ram-11664967636.webp",
+      "price": 23,
+      "stock": true,
+      "rating": 5
+    },
+    {
+      "_id": 4,
+      "productName": "Revenger VALUE POWER 350W Non Modular 80 Plus Black Power Supply",
+      "category": "power-supply-unit",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/revenger-value-power-350w-non-modular-80-plus-11690447841.webp",
+      "price": 21,
+      "stock": false,
+      "rating": 5
+    },
+    {
+      "_id": 5,
+      "productName": "ASUS VT229H 21.5 Full HD IPS HDMI VGA USB Monitor",
+      "category": "monitor",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/asus-vt229h-215-full-hd-10-point-touch-ips-41600257154.webp",
+      "price": 36,
+      "stock": true,
+      "rating": 5
+    },
+    {
+      "_id": 6,
+      "productName": "Toshiba 500GB 5400RPM Laptop Hard disk #MQ01ABD050/MQ01ABF050M/HDWK105UZSVA",
+      "category": "hdd",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/toshiba-500gb-sata-5400rpm-25-inch-hdd-11545811538.webp",
+      "price": 22,
+      "stock": true,
+      "rating": 5
+    },
+    {
+      "_id": 7,
+      "productName": "K2 Internal 2.5 inch HDD/SSD Silver Thick Caddy",
+      "category": "ssd",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/k2-internal-25-inch-hddssd-silver-thick-11665220935.webp",
+      "price": 18,
+      "stock": false,
+      "rating": 5
+    },
+    {
+      "_id": 8,
+      "productName": "Asus GeForce GT 730 2GB GDDR5 Graphics Card #GT730-SL-2GD5-BRK",
+      "category": "gpu",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/asus-geforce-gt-730-2gb-gddr5-graphics-card-11695463237.webp",
+      "price": 34,
+      "stock": false,
+      "rating": 5
+    },
+    {
+      "_id": 9,
+      "productName": "Tronix i3 Black Wireless Mouse",
+      "category": "mouse",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/tronix-i3-black-wireless-21564982051.webp",
+      "price": 6,
+      "stock": true,
+      "rating": 5
+    },
+    {
+      "_id": 10,
+      "productName": "Havit KB224 Wired Black Mini Multimedia Keyboard with Bangla",
+      "category": "keyboard",
+      "imgLink": "https://www.cloud.ryanscomputers.com/cdn/products/main/havit-kb224-wired-black-mini-multimedia-keyboard-21695452442.webp",
+      "price": 12,
+      "stock": true,
+      "rating": 5
+    }
+  ]
+}
